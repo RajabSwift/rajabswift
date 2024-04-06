@@ -191,7 +191,7 @@ header .links .icon .short {
 
 /* Start of landing */
 .landing {
-  background-image: url(./images/landingImg.jpeg);
+  background-image: url(../images/landingImg.jpeg);
   background-size: cover;
   height: calc(100vh - 36px - 40px);
   /* position: relative; */
